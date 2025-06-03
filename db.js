@@ -5,7 +5,7 @@ const config = {
     user: "sa",
     password: "Triggerdb!!!!",
     server: "127.0.0.1", // Cambia esto si es otro servidor
-    database: "DB2",
+    database: "holamundo",
     options: {
         encrypt: false, // Cambia a true si usas Azure
         enableArithAbort: true,
